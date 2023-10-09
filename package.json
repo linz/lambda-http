@@ -32,7 +32,7 @@
     "build/src/**"
   ],
   "dependencies": {
-    "find-my-way": "^7.3.1",
+    "find-my-way": "^7.7.0",
     "pino": "^8.15.1",
     "ulid": "^2.3.0"
   }
